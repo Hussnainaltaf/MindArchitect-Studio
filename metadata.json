@@ -1,0 +1,8 @@
+{
+  "name": "EvalionMind AI Assistant Miltry Intellegen",
+  "description": "AI assistant for the EvalionMind tactical hiring OS.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
